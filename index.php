@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Broker Public Portal</title>
+  <title>Broker Private Portal</title>
   <link rel="stylesheet" types="text/css" href="css/style.css">
 </head>
 <body>
